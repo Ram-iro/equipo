@@ -1,1 +1,4 @@
-
+NOTAS
+=====
+El archivo Index no tiene aún un template.
+Todas las imagenes, Videos y demás archivos externos se guardan en la carpeta Assets.
