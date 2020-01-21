@@ -6,4 +6,4 @@
  
  .Modificaciones
  
- .Lincencia
+ .Licencia
